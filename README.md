@@ -11,3 +11,4 @@
   <p><strong> Texto reforzado </strong></p>
   <p><sub> Texto sub indice </sub></p>
   <p><sup> Texto superindice </sup></p>
+  <p align="center"><b> ESTO ES UN TEXTO CENTRADO EN NEGRITA </b></p>
