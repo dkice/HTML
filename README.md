@@ -3,7 +3,7 @@
     <title> Tipos de texto </title>
   </head>
   <body>
-    <p aling="center"><b> creado por Duarte </b></p>
+    <p align="center"><b> creado por Duarte </b></p>
     <p> Texto regular </p>
     <p><b> texto en negrita</b></p>
     <p><big> Texto en grande</p></big>
