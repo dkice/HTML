@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> Tipos de texto </title>
+   <hr>
   </head>
   <body>
     <p align="center"><b> creado por Duarte </b></p>
@@ -24,7 +24,5 @@
 <h4>holo</h4>
 <h5>holo</h5>
 <h6>holo</h6>
-<img src="file:///C:/Users/Duarte/Desktop/androxus-paladins.jpg.jpg">
-
 </body>
 </html>
