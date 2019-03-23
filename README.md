@@ -18,7 +18,7 @@
   <p align="center"><b> ESTO ES UN TEXTO <br/>CENTRADO EN NEGRITA <br/> PARTIDA</b></p>
 <p><ins> texto insertado</ins></p>
   <p><del> texto tachado</del></p>
-<h1>holo</h1>
+<h1 align="center">holo</h1>
 <h2>holo</h2>
 <h3>holo</h3>
 <h4>holo</h4>
