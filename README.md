@@ -4,7 +4,7 @@
   </head>
   <body>
     <p align="center"><b> creado por Duarte </b></p>
-    <p align="center"<sub><h3>apoyado por Satán</h3></sub></p>
+    <p align="center"<h3>apoyado por Satán</h3></p>
     <p> Texto regular </p>
     <p><b> texto en negrita</b></p>
     <p><big> Texto en grande</p></big>
