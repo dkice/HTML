@@ -24,5 +24,7 @@
 <h4>holo</h4>
 <h5>holo</h5>
 <h6>holo</h6>
+<img src="file:///C:/Users/Duarte/Desktop/androxus-paladins.jpg.jpg">
+
 </body>
 </html>
