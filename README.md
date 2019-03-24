@@ -28,7 +28,7 @@
 </html>
     <!-- This is a comment -->
   <center>
-  <div id="centro">
+  <div id="center">
     <p> Hola me llamo DUarte </p>
   </div>
   </center>
