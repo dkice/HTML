@@ -27,3 +27,8 @@
 </body>
 </html>
     <!-- This is a comment -->
+    <center>
+  <div id="centro">
+    <p> Hola me llamo Duarte </p>
+  </div>
+</center>
